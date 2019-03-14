@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.380432,
+          45.669245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "https://fr.wikipedia.org/wiki/Quartier_des_spectacles",
+        "name": "Quartier des spectacles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56456,
+          45.507324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "1b6fcdd2",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.380432,
+          45.669245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuit 2",
+        "styleUrl": "#poly-FF5252-1200-77-nodesc",
+        "styleHash": "-653a6f84",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-1200-77-nodesc-normal",
+          "highlight": "#poly-FF5252-1200-77-nodesc-highlight"
+        },
+        "stroke": "#ff5252",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#ff5252",
+        "fill-opacity": 0.30196078431372547
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.593181,
+              45.552604,
+              0
+            ],
+            [
+              -73.594382,
+              45.551222,
+              0
+            ],
+            [
+              -73.592687,
+              45.550455,
+              0
+            ],
+            [
+              -73.593889,
+              45.549103,
+              0
+            ],
+            [
+              -73.588803,
+              45.546683,
+              0
+            ],
+            [
+              -73.588138,
+              45.547405,
+              0
+            ],
+            [
+              -73.586228,
+              45.546488,
+              0
+            ],
+            [
+              -73.584962,
+              45.547901,
+              0
+            ],
+            [
+              -73.590391,
+              45.55038,
+              0
+            ],
+            [
+              -73.589747,
+              45.551056,
+              0
+            ],
+            [
+              -73.593181,
+              45.552604,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eglise ND",
+        "styleUrl": "#icon-1598-0288D1",
+        "styleHash": "5cfb00b0",
+        "styleMapHash": {
+          "normal": "#icon-1598-0288D1-normal",
+          "highlight": "#icon-1598-0288D1-highlight"
+        },
+        "description": "Église Notre-Dame-de-la-Défense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.611392,
+          45.534952,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée Pointe-à-Callière",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "63f179af",
+        "description": "Vieux Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.553748,
+          45.502273,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartier des spectacles",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "1b6fcdd2",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "https://fr.wikipedia.org/wiki/Quartier_des_spectacles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56456,
+          45.507324,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "René St-Pierre",
+        "styleUrl": "#poly-0097A7-1200-77",
+        "styleHash": "c762399",
+        "styleMapHash": {
+          "normal": "#poly-0097A7-1200-77-normal",
+          "highlight": "#poly-0097A7-1200-77-highlight"
+        },
+        "description": "<img src=\"https://lh5.googleusercontent.com/-QndcA9LmS5d8_AfyT292BnINSInpZQ2WotXTT_gqr9WW197nMYygJ2g_iC11QDAxHUyaIq4zRK3nzg5hDW2yKhn8eH531ZbtrH9PVeODyuC6zf1Im9bnJ1KhVYx5mEz41ihLQ\" height=\"200\" width=\"auto\" /><br><br>Mon quartier",
+        "stroke": "#0097a7",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#0097a7",
+        "fill-opacity": 0.30196078431372547,
+        "gx_media_links": "https://lh5.googleusercontent.com/-QndcA9LmS5d8_AfyT292BnINSInpZQ2WotXTT_gqr9WW197nMYygJ2g_iC11QDAxHUyaIq4zRK3nzg5hDW2yKhn8eH531ZbtrH9PVeODyuC6zf1Im9bnJ1KhVYx5mEz41ihLQ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.559609,
+              45.547041,
+              0
+            ],
+            [
+              -73.561326,
+              45.544261,
+              0
+            ],
+            [
+              -73.55418,
+              45.542157,
+              0
+            ],
+            [
+              -73.552528,
+              45.544938,
+              0
+            ],
+            [
+              -73.559609,
+              45.547041,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAAQ",
+        "styleUrl": "#icon-1798-0288D1",
+        "styleHash": "564f6b32",
+        "styleMapHash": {
+          "normal": "#icon-1798-0288D1-normal",
+          "highlight": "#icon-1798-0288D1-highlight"
+        },
+        "description": "SAAQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559666,
+          45.516413,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vélo Shop",
+        "styleUrl": "#icon-1522-097138-labelson",
+        "styleHash": "-62d0da12",
+        "description": "Armand Vaillancourt<br>Street view : https://bit.ly/2zlNtj7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.583232,
+          45.516528,
+          0
+        ]
+      }
+    }
+  ]
+}
